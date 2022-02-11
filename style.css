@@ -1,0 +1,42 @@
+/* style.css */
+
+* {
+    background-color: #d24970;
+}
+
+h1 {
+    background-color: #d24970;
+    color: #ffe75d;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: 1000;
+    font-size: 40px;
+    text-align: center;
+}
+
+h2 {
+    color: #ffe75d;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 30px;
+    font-weight: strong;
+}
+
+.list, .recipe-link{
+    color: white;
+    font-family: "Brush Script MT", "Lucida Handwriting", cursive;
+    font-size: 25px;
+}
+
+.image{
+    height: auto;
+    width: 600px;
+}
+
+
+
+/* 
+#ffe75d
+#d24970
+#32657c
+#669bb7
+#cf8145
+
